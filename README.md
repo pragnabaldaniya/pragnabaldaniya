@@ -1,66 +1,48 @@
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pragna Baldaniya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+ <h2 align="center">👋 Hi there, I'm Pragna</h2>
 
-<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Pragna;Front-End+Developer;Web+Designer;Learning+React+%26+JavaScript;Building+Modern+Websites" />
+💻 <b>Front-End Developer | Web Designer | Tech Enthusiast</b>  
+<br>
+🌸 I love turning ideas into beautiful, responsive, and user-friendly websites.
 </p>
 
 ---
 
-### 🌸 About Me
-- 💻 Front-End Developer & Web Designer  
-- 🌱 Currently learning **React.js & Advanced JavaScript**  
-- 🎨 Love creating **clean & modern UI**  
-- 🎯 Goal: Become a **Full-Stack Developer**  
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap**
+### 🚀 About Me
+- 🌱 I’m currently learning **React.js** and **Advanced JavaScript**  
+- 💡 I enjoy designing clean, modern UI layouts  
+- 🎯 My goal: Become a full-stack web developer  
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
 
 ---
 
-### 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode,figma" />
-
-</p>
+### 🛠️ Tech Stack
+| Front-End | Tools | Learning |
+|------------|--------|----------|
+| HTML | VS Code | React |
+| CSS | Git & GitHub | Tailwind CSS |
+| JavaScript | Figma | APIs |
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragnabaldaniya&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragnabaldaniya&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pragnabaldaniya&show_icons=true&theme=tokyonight" alt="Pragna's GitHub stats"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me
-
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  💌 <a href="mailto:your-email@example.com">your-email@example.com</a>  
+  <br>
+  💼 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | 🌍 <a href="https://your-portfolio-link.com">Portfolio</a>
 </p>
 
 ---
 
-### ✨ Quote
+<p align="center"><b>⭐ “Code with passion, design with purpose.” ⭐</b></p>
 
-<p align="center">
-  <b>💫 "Code with passion, design with purpose." 💫</b>
 </p>
 
 ---
