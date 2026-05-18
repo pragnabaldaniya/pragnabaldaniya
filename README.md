@@ -1,10 +1,23 @@
- <h2 align="center">👋 Hi there, I'm Pragna</h2>
+<h1 align="center">
+  Hey 👋, I'm Pragna
+</h1>
 
-<p align="center">
-💻 <b>Front-End Developer | Web Designer | Tech Enthusiast</b>  
-<br>
-🌸 I love turning ideas into beautiful, responsive, and user-friendly websites.
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;React+%7C+Node.js+Learner;DSA+Enthusiast+with+C%2B%2B;Building+Modern+Web+Applications" />
+</h3>
+
+---
+
+## ✨ About Me
+
+- 💻 Passionate about building modern web applications
+- 🌱 Currently learning **Node.js & Backend**
+- ⚛️ Comfortable with **React.js & Frontend Development**
+- 📚 Practiced **DSA with C++**
+- 🚀 Exploring Full Stack Development
+- ☕ Coffee + Code + Consistency
+
+---
 
 ---
 
@@ -16,33 +29,43 @@
 
 ---
 
-### 🛠️ Tech Stack
-| Front-End | Tools | Learning |
-|------------|--------|----------|
-| HTML | VS Code | React |
-| CSS | Git & GitHub | Tailwind CSS |
-| JavaScript | Figma | APIs |
+## 🛠️ Tech Stack
 
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragnabaldaniya&show_icons=true&theme=tokyonight" alt="Pragna's GitHub stats"/>
+
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,git,github,vscode,mongodb,express" />
+
 </p>
 
 ---
 
-### 🌐 Connect With Me
+---
+## 📊 GitHub Stats
+
 <p align="center">
-  💌 <a href="mailto:your-email@example.com">your-email@example.com</a>  
-  <br>
-  💼 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | 🌍 <a href="https://your-portfolio-link.com">Portfolio</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-<p align="center"><b>⭐ “Code with passion, design with purpose.” ⭐</b></p>
+---
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://instagram.com/YOUR_ID">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+  </a>
 </p>
 
 ---
